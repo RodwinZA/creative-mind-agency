@@ -110,7 +110,7 @@ a {
 /* About */
 
 .about {
-    height: 850px;
+    height: 950px;
     display: flex;
     flex-basis: 100%;
     flex-direction: column;

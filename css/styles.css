@@ -127,10 +127,9 @@ a {
 
 .about-text {
     position: absolute;
-    top: 425px;
+    top: 450px;
     margin-left: 16px;
     margin-right: 16px;
-    padding-top: 16px;
 }
 
 .small-background {
